@@ -1,0 +1,31 @@
+footer a:hover{
+    text-decoration: none;
+}
+      li{
+    list-style-type:none;
+   transition:color 10ms;
+}
+li:hover{
+  color:#1ED760;
+  
+}
+h5{
+    color:rgba(87, 84, 84, 0.8);
+}
+hr{
+    background-color: #1ED760;
+    margin-top: 0px;
+    padding:1px;
+}
+.fa{
+    align-self: center;
+    margin-left: 20vw;
+    line-height: 40px;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    transition:color 10ms;
+}
+.fa:hover{
+    color:green;
+}
